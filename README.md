@@ -1,4 +1,8 @@
-# trucked-up
+My partner and I are very interested in your Truck Driver services and would love to learn more about how you could assist with our project.
+We have a few questions we’d appreciate discussing during a brief Zoom meeting. We would prefer to use a Windows device, as we sometimes experience connection issues with phone calls.
+Please let us know a convenient time for you. We look forward to connecting with you and learning more about your services.
+ 
+Best regards# trucked-up
 Trucking app for creating and delegating jobs by dispatchers to various truckers
 
 
